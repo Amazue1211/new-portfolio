@@ -30,8 +30,8 @@ function Home() {
 </div>
 
 <div className='text-center md: p-[20px]'>
-    <h2 className=' sm:text-[30px]  md: text-[50px] font-bold text-[#000046]'>
-        HELLO 
+    <h2 className=' sm:text-[30px]  md:text-[50px] font-bold text-[#000046]'>
+        HELLO <br />
         EVERYONE
     </h2>
     <p className='sm:text-[30px]  md: text-[#000046] text-[20px]'>Here's what i am and what i do </p>
