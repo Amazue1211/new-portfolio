@@ -33,7 +33,7 @@ function Home() {
         HELLO 
         EVERYONE
     </h2>
-    <p className='sm:text-[10px]  md: text-[#000046] text-[30px]'>Here's what i am and what i do </p>
+    <p className='sm: text-[10px]  md: text-[#000046] text-[30px]'>Here's what i am and what i do </p>
    <div className='sm: flex gap-1'> <Link to='/resume'><button className='w-[140px] h-[40px] rounded-[50px] bg-[#000046] text-[white] mt-[8px] mb-[20px] cursor-pointer active:bg-[#58589c]'>Resume</button></Link> <Link to='/project'><button  className='w-[140px] h-[40px] rounded-[50px] border-gray-900 text-[#100f0f] mt-[10px] mb-[20px] cursor-pointer active:bg-[#9494ec82]'>Project</button></Link></div>
     <p className='text-left align-center justify-center'>I am a student of Mountain Top University Ibafo Ogun State <br />
     currently an intern in neo cloud technologies gwarinpa abuja <br />
