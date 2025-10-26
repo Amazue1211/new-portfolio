@@ -28,9 +28,9 @@ function Home() {
      </p>
     
 </div>
-<div className='text-left md: p-[20px]'>
-    <h2 className='text-[50px] font-bold text-[#000046]'>
-        HELLO <br />
+<div className='text-center md: p-[20px]'>
+    <h2 className=' sm:text-[30px]  md: text-[50px] font-bold text-[#000046]'>
+        HELLO 
         EVERYONE
     </h2>
     <p className='text-[#000046] text-[30px]'>Here's what i am and what i do </p>
