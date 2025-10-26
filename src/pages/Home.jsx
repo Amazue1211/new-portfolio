@@ -16,8 +16,8 @@ function Home() {
     <div className=' sm: p-[10px]  md:flex justify-center mt-[90px] cursor-pointer gap-[100px] position-center'>
 <div className='sm:shadow-xl p-[10px] md: bg-[#e3e3e8] ml-[50px]  w-[300px] flex-col mb-[40px] items-center rounded-[30PX] h-[500px] text-center shadow-xl shadow-black/50 lg:w-[400px]'>
     <img src={profileimg} alt="" width={200} className=' lg:ml-[100px] mt-[30px] rounded-[100px] md:h-[230px]  ml-[53px]' />
-    <h2 className='sm:mt-30px md: text-[30px] font-bold text-[#000046] mt-[60px] '>Amazue Chimarijem </h2>
-    <p className='font-bold text-[30px] text-[#000046] sm: mb-[140px] '>Web Developer <br />
+    <h2 className='sm:mt-10px md: text-[30px] font-bold text-[#000046] mt-[60px] '>Amazue Chimarijem </h2>
+    <p className='font-bold text-[30px] text-[#000046] sm: mb-[140px] '>WeDeveloper <br />
     <div className='flex justify-center gap-3.5'>
         <a href="https://www.instagram.com/chima_amazue/"><img src={iglogo} width={30} alt="" className='' /></a>
         <a href="https://www.linkedin.com/in/chimarijem-amazue-684569287/"><img src={fblogo} alt="" width={30} /></a>
