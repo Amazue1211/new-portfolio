@@ -28,6 +28,7 @@ function Home() {
      </p>
     
 </div>
+
 <div className='text-center md: p-[20px]'>
     <h2 className=' sm:text-[30px]  md: text-[50px] font-bold text-[#000046]'>
         HELLO 
