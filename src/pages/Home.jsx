@@ -30,7 +30,7 @@ function Home() {
 </div>
 
 <div className='text-center  item-center md: p-[20px]'>
-    <h2 className=' sm:text-[30px]  md:text-[50px] font-bold text-[#000046]'>
+    <h2 className=' sm:text-[50px]  md:text-[50px] font-bold text-[#000046]'>
         HELLO <br />
         EVERYONE
     </h2>
