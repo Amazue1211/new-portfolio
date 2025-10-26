@@ -38,7 +38,7 @@ function Home() {
    <div className='sm:flex gap-1 ml-[50px] md:ml-[100px] lg: mb-[10px] leading-[20px]'> <Link to='/resume'><button className='w-[140px] h-[40px] rounded-[50px] bg-[#000046] text-[white] mt-[8px] mb-[20px] cursor-pointer active:bg-[#58589c]'>Resume</button></Link> <Link to='/project'><button  className='w-[140px] h-[40px] rounded-[50px] border-gray-900 text-[#100f0f] mt-[10px] mb-[20px] cursor-pointer active:bg-[#9494ec82]'>Project</button></Link></div>
     <p className='text-left align-center justify-center'>I am a student of Mountain Top University Ibafo Ogun State <br />
     currently an intern in neo cloud technologies gwarinpa abuja <br />
-    working as a front-end developer which i have been able to complete <br />
+    working as a front-end developer which i have been able to complete 
     multiple project which are available in <a href="#">Blog</a>
     </p>
  
