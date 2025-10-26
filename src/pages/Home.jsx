@@ -40,7 +40,7 @@ function Home() {
 I am a student of Mountain Top University Ibafo Ogun State <br />
     currently an intern in neo cloud technologies gwarinpa abuja <br />
     working as a front-end developer which i have been able to complete 
-    multiple project which are available in <a href="#">Blog</a>
+    multiple project which are available in <a href="#" className='border-b-[2px]'>Blog</a>
     </p>
  
 </div>
