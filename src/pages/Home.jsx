@@ -46,7 +46,7 @@ function Home() {
       <Navbar />
       <div>
         <div className="sm:p-[10px] md:flex justify-center mt-[90px] cursor-pointer gap-[100px]">
-          {/* Profile Card */}
+        
           <div className="fade-in sm:shadow-xl p-[10px] md:bg-[#e3e3e8] ml-[50px] w-[300px] flex-col mb-[40px] items-center rounded-[30px] h-[500px] text-center shadow-xl shadow-black/50 lg:w-[400px]">
             <a href={profileimg}>
               <img
